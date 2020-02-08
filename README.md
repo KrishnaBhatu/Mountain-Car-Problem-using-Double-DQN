@@ -17,3 +17,5 @@
 	1. Start of learning.mp4 - recorded when the training was initiated
 	2. Middle of learning.mp4 - recorded from around 5501th episode during the training
 	3. End of learning.mp4 - recorded from around 9844th episode during the training  
+
+*Note: Refer [Report](https://github.com/KrishnaBhatu/Mountain-Car-Problem-using-Double-DQN/blob/master/ReportHW3.pdf) for deeper understanding of the project*
